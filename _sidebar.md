@@ -11,3 +11,6 @@
 - [复用与分用](transfer/复用与分用)
 - [UDP协议](transfer/无连接传输协议UDP)
 - [TCP可靠数据传输的基本原理](transfer/可靠数据传输的基本原理)
+- [RDT2.1和2.2](transfer/RDT2.1和2.2.md)
+- [RDT3.0](transfer/RDT3.0.md)
+- [滑动窗口协议](transfer/滑动窗口协议)
